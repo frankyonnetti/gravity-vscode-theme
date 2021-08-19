@@ -1,0 +1,35 @@
+{
+    "name": "gravity-vscode-theme",
+    "displayName": "Gravity",
+    "description": "Dark monokai theme that feels right at home on macOS",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "publisher": "fyonnetti",
+    "author": {
+        "name": "Frank Yonnetti"
+    },
+    "homepage": "https://github.com/frankyonnetti/gravity-vscode-theme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/frankyonnetti/gravity-vscode-theme"
+    },
+    "bugs": {
+        "url": "https://github.com/frankyonnetti/gravity-vscode-theme/issues"
+    },
+    "icon": "gravity-icon.png",
+    "license": "GPLv3",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Gravity",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Gravity-color-theme.json"
+            }
+        ]
+    }
+}
