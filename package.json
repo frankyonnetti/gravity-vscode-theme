@@ -2,7 +2,7 @@
     "name": "gravity-vscode-theme",
     "displayName": "Gravity",
     "description": "Dark monokai theme that feels right at home on macOS",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.54.0"
     },

@@ -1,20 +1,28 @@
-// https://code.visualstudio.com/api/references/theme-color
 {
 	"name": "Gravity",
 	"type": "dark",
 	"colors": {
-		"activityBarBadge.background": "#a3c266",
+		// activityBar
+		"activityBar.activeBorder": "#a3c266",
 		"activityBar.background": "#2c2c2c",
 		"activityBar.border": "#151515",
-		// "badge.background": "#6dadd5",
-		"editor.background": "#232323",
+		"activityBarBadge.background": "#a3c266",
+		// editor
+		"editor.background": "#2b2b2b",
 		"editor.foreground": "#dddddd",
 		"editor.lineHighlightBackground": "#3d3d3d",
 		"editorCursor.foreground": "#6eadd5",
-		"editorGroupHeader.tabsBackground": "#191919",
-		"sideBar.background": "#1C1C1C",
+		"list.inactiveSelectionBackground": "#353535",
+		// panel
+		"panel.background": "#252525",
+		// sidebar
 		"sideBar.border": "#111111",
-		"sideBarTitle.foreground": "#bbbbbb",
+		"sideBar.background": "#1E1E1E",
+		// "sideBar.foreground": "#b2b2b2",
+		"sideBarSectionHeader.background": "#2c2c2c",
+		// "sideBarSectionHeader.border": "#1E1E1E",
+		"sideBarTitle.foreground": "#949494",
+		// statusBar
 		"statusBar.background": "#383838",
 		"statusBar.border": "#222222",
 		"statusBar.debuggingForeground": "#e0e0e0",
@@ -22,13 +30,16 @@
 		"statusBar.noFolderForeground": "#e0e0e0",
 		"statusBarItem.prominentForeground": "#e0e0e0",
 		"statusBarItem.remoteForeground": "#e0e0e0",
-		"titleBar.activeBackground": "#383838",
-		"titleBar.inactiveBackground": "#2c2c2c",
-		"titleBar.border": "#191919",
-		"tab.activeBackground": "#252525",
+		// tab
+		"editorGroupHeader.tabsBackground": "#1E1E1E",
+		"tab.activeBackground": "#2b2b2b",
 		"tab.activeBorderTop": "#a3c266",
-		"tab.border": "#252525",
-		"tab.inactiveBackground": "#191919",
+		"tab.border": "#0d0d0d",
+		"tab.inactiveBackground": "#1E1E1E",
+		// titleBar
+		"titleBar.activeBackground": "#383838",
+		"titleBar.border": "#191919",
+		"titleBar.inactiveBackground": "#2c2c2c",
 	},
 	"tokenColors": [
 		{
@@ -135,7 +146,7 @@
 			"scope": "storage.type",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#66D9EF"
+				"foreground": "#6dadd5"
 			}
 		},
 		{
@@ -173,7 +184,7 @@
 			"scope": "meta.function-call",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#66D9EF"
+				"foreground": "#6dadd5"
 			}
 		},
 		{

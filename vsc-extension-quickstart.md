@@ -1,5 +1,22 @@
 # Welcome to your VS Code Extension
 
+---
+
+### To Start Dev
+
+press `F5` to open dev window.
+
+
+**Useful links**
+
+[VS Code API](https://code.visualstudio.com/api)
+[Creating a VS Code Theme](https://css-tricks.com/creating-a-vs-code-theme)
+[Theme Color Reference ★](https://code.visualstudio.com/api/references/theme-color)
+[Color Theme Extension](https://code.visualstudio.com/api/extension-guides/color-theme)
+
+
+---
+
 ## What's in the folder
 
 * This folder contains all of the files necessary for your color theme extension.
