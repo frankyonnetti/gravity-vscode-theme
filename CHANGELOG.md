@@ -1,9 +1,13 @@
 # Change Log
 
-All notable changes to the "gravity" extension will be documented in this file.
+All notable changes to the "Gravity" theme will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [0.1.1] - 2022-09-09
+### Added
+- The theme provides all macOS accent colors now.
 
-## [Unreleased]
+### Changed
+- Code clean up and added more color defined elements.
 
+## [0.1.0] - 2021-08-21
 - Initial release

@@ -1,35 +1,76 @@
 {
-    "name": "gravity-vscode-theme",
-    "displayName": "Gravity",
-    "description": "Dark monokai theme that feels right at home on macOS",
-    "version": "0.1.0",
-    "engines": {
-        "vscode": "^1.54.0"
-    },
-    "publisher": "fyonnetti",
-    "author": {
-        "name": "Frank Yonnetti"
-    },
-    "homepage": "https://github.com/frankyonnetti/gravity-vscode-theme",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/frankyonnetti/gravity-vscode-theme"
-    },
-    "bugs": {
-        "url": "https://github.com/frankyonnetti/gravity-vscode-theme/issues"
-    },
-    "icon": "gravity-icon.png",
-    "license": "GPLv3",
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Gravity",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Gravity-color-theme.json"
-            }
-        ]
-    }
+  "name": "gravity-vscode-theme",
+  "displayName": "Gravity",
+  "description": "Dark monokai theme that feels right at home on macOS",
+  "version": "0.1.1",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "publisher": "fyonnetti",
+  "author": {
+    "name": "Frank Yonnetti"
+  },
+  "homepage": "https://github.com/frankyonnetti/gravity-vscode-theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frankyonnetti/gravity-vscode-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/frankyonnetti/gravity-vscode-theme/issues"
+  },
+  "icon": "gravity-icon.png",
+  "license": "GPLv3",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gravity Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gravity-blue-theme.json"
+      },
+      {
+        "label": "Gravity Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gravity-purple-theme.json"
+      },
+      {
+        "label": "Gravity Pink",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gravity-pink-theme.json"
+      },
+      {
+        "label": "Gravity Red",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gravity-red-theme.json"
+      },
+      {
+        "label": "Gravity Orange",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gravity-orange-theme.json"
+      },
+      {
+        "label": "Gravity Yellow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gravity-yellow-theme.json"
+      },
+      {
+        "label": "Gravity Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gravity-green-theme.json"
+      },
+      {
+        "label": "Gravity Gray",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gravity-gray-theme.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-jsonminify": "^1.1.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-replace": "^1.1.3"
+  }
 }
