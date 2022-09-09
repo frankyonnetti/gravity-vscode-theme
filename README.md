@@ -5,8 +5,6 @@
   Gravity VSCode Theme
 </h1>
 
-<p align="center">Version 0.1.1</p>
-
 <img alt="" src="https://yonnetti-sublime.s3.amazonaws.com/gravity-vscode/gravity-vscde-0.1.1.jpg" />
 
 <p align="center">
@@ -18,8 +16,11 @@
 
 ## Install
 
-  - [Download the theme](https://github.com/frankyonnetti/gravity-vscode-theme/archive/refs/tags/0.1.1.zip) and un-zip the archive.
+  - [Download the theme](https://github.com/frankyonnetti/gravity-vscode-theme/archive/refs/tags/0.1.2.zip) and un-zip the archive.
   - Rename the folder to `gravity-vscode-theme`.
-  - Place the folder in the extenstions directory.
+  - Place the folder in the extensions directory.
     - macOS: `~/.vscode/extensions`
 
+---
+
+👉 Also checkout the VS Code [Gravity icon theme](https://github.com/frankyonnetti/gravity-file-icons)

@@ -2,8 +2,8 @@
 	"name": "Gravity",
 	"type": "dark",
 	"colors": {
-		"focusBorder": "@color_base80",
-		"list.activeSelectionBackground": "@color_base26",
+		"focusBorder": "#ffffff2e",
+		"list.activeSelectionBackground": "#ffffff1a",
 		// activityBar
 		"activityBar.activeBorder": "@color_base",
 		"activityBar.background": "#2c2c2c",
@@ -23,7 +23,7 @@
 		"editor.foreground": "#dddddd",
 		"editor.lineHighlightBackground": "#3d3d3d",
 		"editorCursor.foreground": "#6eadd5",
-		// extentions
+		// extensions
 		"extensionBadge.remoteForeground": "@color_text",
 		"extensionBadge.remoteBackground": "@color_base",
 		// list and trees
@@ -36,6 +36,7 @@
 		"progressBar.background": "@color_base",
 		// notification
 		"notificationLink.foreground": "@color_base",
+		"notificationsInfoIcon.foreground": "@color_light",
 		// quickInput
 		"pickerGroup.foreground": "@color_light",
 		// settings
