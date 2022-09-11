@@ -2,8 +2,8 @@
 	"name": "Gravity",
 	"type": "dark",
 	"colors": {
-		"focusBorder": "#ffffff2e",
-		"list.activeSelectionBackground": "#ffffff1a",
+		"focusBorder": "@color_base80",
+		"list.activeSelectionBackground": "@color_base26",
 		// activityBar
 		"activityBar.activeBorder": "@color_base",
 		"activityBar.background": "#2c2c2c",

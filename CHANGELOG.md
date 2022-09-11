@@ -2,9 +2,13 @@
 
 All notable changes to the "Gravity" theme will be documented in this file.
 
-## [0.1.1] - 2022-09-03
+## [0.1.3] - 2022-09-11
 ### Update
-- Made a few accent to gray color adjustments.
+- Updated the macOS accent colors to be more accurate.
+
+## [0.1.2] - 2022-09-03
+### Update
+- Made a few adjustments to the gray accent color.
 
 ## [0.1.1] - 2022-09-03
 ### Added

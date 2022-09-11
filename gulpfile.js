@@ -9,58 +9,58 @@ const theme = {
 
 const accentColors = {
   blue: {
-    color: '#0a84ff',
-    colorlight: '#42a0ff',
-    colordark: '#006bd7',
+    color: '#007aff',
+    colorlight: '#3696ff',
+    colordark: '#0063cf',
     text: '#ffffff',
     name: 'gravity-blue-theme'
   },
   purple: {
-    color: '#bf5af2',
-    colorlight: '#cb79f4',
-    colordark: '#d89bf7',
+    color: '#af52de',
+    colorlight: '#bb6ce3',
+    colordark: '#a338d9',
     text: '#ffffff',
     name: 'gravity-purple-theme'
   },
   pink: {
-    color: '#ff375f',
-    colorlight: '#ff5678',
-    colordark: '#ff1846',
+    color: '#ff2d55',
+    colorlight: '#ff4b6d',
+    colordark: '#ff0f3d',
     text: '#ffffff',
     name: 'gravity-pink-theme'
   },
   red: {
-    color: '#ff453a',
-    colorlight: '#ff6359',
-    colordark: '#ff271b',
+    color: '#ff3b30',
+    colorlight: '#ff584e',
+    colordark: '#ff1e12',
     text: '#ffffff',
     name: 'gravity-red-theme'
   },
   orange: {
-    color: '#ff9f0a',
-    colorlight: '#ffb542',
-    colordark: '#ef9100',
+    color: '#ff9500',
+    colorlight: '#ffac36',
+    colordark: '#e68600',
     text: '#2c2c2c',
     name: 'gravity-orange-theme'
   },
   yellow: {
-    color: '#ffd60a',
-    colorlight: '#ffea85',
-    colordark: '#efc700',
+    color: '#ffcc00',
+    colorlight: '#ffe477',
+    colordark: '#e6b800',
     text: '#2c2c2c',
     name: 'gravity-yellow-theme'
   },
   green: {
-    color: '#32d74b',
-    colorlight: '#60e073',
-    colordark: '#23b439',
+    color: '#28cd41',
+    colorlight: '#4ddc62',
+    colordark: '#20a635',
     text: '#2c2c2c',
     name: 'gravity-green-theme'
   },
   gray: {
-    color: '#98989d',
-    colorlight: '#b9b9bd',
-    colordark: '#88888e',
+    color: '#8e8e93',
+    colorlight: '#adadb1',
+    colordark: '#7f7f85',
     text: '#ffffff',
     name: 'gravity-gray-theme'
   }
