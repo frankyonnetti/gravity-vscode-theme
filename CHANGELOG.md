@@ -2,6 +2,10 @@
 
 All notable changes to the "Gravity" theme will be documented in this file.
 
+## [0.1.5] - 2023-10-13
+### Update
+- Darkened the "foldBackground" gray color.
+
 ## [0.1.4] - 2023-10-13
 ### Update
 - Changed the "foldBackground" color from default blue to gray.
