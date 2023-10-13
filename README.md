@@ -16,7 +16,7 @@
 
 ## Install
 
-  - [Download the theme](https://github.com/frankyonnetti/gravity-vscode-theme/archive/refs/tags/0.1.3.zip) and un-zip the archive.
+  - [Download the theme](https://github.com/frankyonnetti/gravity-vscode-theme/archive/refs/heads/main.zip) and un-zip the archive.
   - Rename the folder to `gravity-vscode-theme`.
   - Place the folder in the extensions directory.
     - macOS: `~/.vscode/extensions`
