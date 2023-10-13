@@ -2,6 +2,11 @@
 
 All notable changes to the "Gravity" theme will be documented in this file.
 
+## [0.1.4] - 2023-10-13
+### Update
+- Changed the "foldBackground" color from default blue to gray.
+- Changed "Function name" color to a lighter blue. Thanks @gloryfish https://github.com/gloryfish
+
 ## [0.1.3] - 2022-09-11
 ### Update
 - Updated the macOS accent colors to be more accurate.

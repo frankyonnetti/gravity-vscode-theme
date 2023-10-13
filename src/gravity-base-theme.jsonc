@@ -23,6 +23,7 @@
 		"editor.foreground": "#dddddd",
 		"editor.lineHighlightBackground": "#3d3d3d",
 		"editorCursor.foreground": "#6eadd5",
+		"editor.foldBackground": "#444444",
 		// extensions
 		"extensionBadge.remoteForeground": "@color_text",
 		"extensionBadge.remoteBackground": "@color_base",
@@ -186,7 +187,7 @@
 			"scope": "entity.name.function",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#6dadd5"
+				"foreground": "#8bcaf2"
 			}
 		},
 		{
