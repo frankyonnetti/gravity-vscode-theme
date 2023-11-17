@@ -16,7 +16,7 @@
 
 <img alt="New" src="https://yonnetti-sublime.s3.amazonaws.com/gravity-vscode/new.png" />
 
-Added <strong>macOS style scrollbars</strong> with rounded corners in release 0.1.6 using the [Custom CSS and JS Loader]() extension. Once installed, use the folloing path to the CSS:
+Added <strong>macOS style scrollbars</strong> with rounded corners in release 0.1.6 using the [Custom CSS and JS Loader]() extension. Once installed, use the following path to the CSS:
 
 ```json
 "vscode_custom_css.imports": [
