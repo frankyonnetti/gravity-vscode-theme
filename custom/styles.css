@@ -1,0 +1,16 @@
+.monaco-scrollable-element > .scrollbar > .slider {
+  border-radius: 8px !important;
+}
+
+.monaco-scrollable-element > .scrollbar.vertical > .slider {
+  left: 2px !important;
+  width: 8px !important;
+}
+
+.editor-instance .monaco-scrollable-element > .scrollbar.vertical > .slider {
+  left: 3px !important;
+}
+
+.monaco-scrollable-element > .scrollbar.horizontal > .slider {
+  height: 8px !important;
+}
