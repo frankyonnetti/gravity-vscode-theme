@@ -23,7 +23,7 @@
 		"editor.foreground": "#dddddd",
 		"editor.lineHighlightBackground": "#3d3d3d",
 		"editorCursor.foreground": "#6eadd5",
-		"editor.foldBackground": "#252525",
+		"editor.foldBackground": "#232323",
 		// extensions
 		"extensionBadge.remoteForeground": "@color_text",
 		"extensionBadge.remoteBackground": "@color_base",

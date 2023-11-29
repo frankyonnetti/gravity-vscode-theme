@@ -2,6 +2,11 @@
 
 All notable changes to the "Gravity" theme will be documented in this file.
 
+
+## [0.1.6] - 2023-10-13
+### Update
+- Added macOS style scrollbars with rounded corners. Requires the Custom CSS and JS Loader extension.
+
 ## [0.1.5] - 2023-10-13
 ### Update
 - Darkened the "foldBackground" gray color.
