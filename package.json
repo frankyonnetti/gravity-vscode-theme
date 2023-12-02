@@ -2,10 +2,12 @@
   "name": "gravity-vscode-theme",
   "displayName": "Gravity",
   "description": "Dark monokai theme that feels right at home on macOS",
-  "version": "0.1.6",
+  "version": "1.7.0",
   "license": "MIT",
   "publisher": "fyonnetti",
-  "author": "Frank Yonnetti",
+  "author": {
+    "name": "Frank Yonnetti"
+  },
   "icon": "gravity-icon.png",
   "engines": {
     "vscode": "^1.54.0"
@@ -68,7 +70,7 @@
       }
     ]
   },
-  "dependencies": {
+  "devDependencies": {
     "node-json-minify": "^3.0.0"
   }
 }

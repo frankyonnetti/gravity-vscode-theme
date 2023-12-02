@@ -68,8 +68,8 @@
 		"titleBar.inactiveBackground": "#2c2c2c",
 		// text
 		"textBlockQuote.border": "@color_dark",
-		"textLink.foreground": "#ffffff",
-		"textLink.activeForeground": "@color_light"
+		"textLink.foreground": "@color_light",
+		"textLink.activeForeground": "@color_base"
 	},
 	"tokenColors": [
 		{
