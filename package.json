@@ -1,6 +1,6 @@
 {
   "name": "gravity-vscode-theme",
-  "displayName": "Gravity",
+  "displayName": "Gravity Theme",
   "description": "Dark monokai theme that feels right at home on macOS",
   "version": "1.7.0",
   "license": "MIT",
@@ -24,7 +24,7 @@
     "Themes"
   ],
   "scripts": {
-    "theme": "node -e \"require('./build')\""
+    "theme": "node ./build.js"
   },
   "contributes": {
     "themes": [

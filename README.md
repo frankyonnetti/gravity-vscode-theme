@@ -33,4 +33,8 @@ Added <strong>macOS style scrollbars</strong> with rounded corners in release 0.
 
 ---
 
-👉 Also checkout the VS Code [Gravity icon theme](https://github.com/frankyonnetti/gravity-file-icons)
+👉 Also checkout the VS Code:
+
+- [Gravity File Icon Theme](https://github.com/frankyonnetti/gravity-vscode-file-icons)
+- [Gravity Product Icon Theme](https://github.com/frankyonnetti/gravity-vscode-product-icons)
+
