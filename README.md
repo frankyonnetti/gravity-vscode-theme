@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Gravity VSCode Theme" src="https://raw.githubusercontent.com/frankyonnetti/gravity-vscode-theme/main/gravity-icon.png" width="128" />
+  <img alt="Gravity VSCode Theme" src="https://yonnetti-sublime.s3.amazonaws.com/gravity-vscode/gravity-theme.png" width="128" />
 </p>
 <h1 align="center">
   Gravity VSCode Theme
