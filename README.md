@@ -26,10 +26,15 @@ Added <strong>macOS style scrollbars</strong> with rounded corners in release 0.
 
 ## Install
 
-  - [Download the theme](https://github.com/frankyonnetti/gravity-vscode-theme/archive/refs/heads/main.zip) and un-zip the archive.
-  - Rename the folder to `gravity-vscode-theme`.
-  - Place the folder in the extensions directory.
-    - macOS: `~/.vscode/extensions`
+  - Download the **theme** by clicking the "Code" button above and selecting **Download ZIP** from the drop-down.
+  - Un-zip the archive and locate the `.vsix` file.
+  - Run the following command:
+    - `code --install-extension path/to/gravity-vscode-theme-1.7.0.vsix`
+
+More documentation on `.vsix`:
+
+- [Launching from the command line](https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line) (installing the `code` cli)
+- [Packaging extensions](https://code.visualstudio.com/api/working-with-extensions/publishing-extension#packaging-extensions)
 
 ---
 
