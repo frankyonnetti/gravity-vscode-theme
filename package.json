@@ -1,76 +1,79 @@
 {
-  "name": "gravity-vscode-theme",
-  "displayName": "Gravity Theme",
-  "description": "Dark monokai theme that feels right at home on macOS",
-  "version": "1.7.0",
-  "license": "MIT",
-  "publisher": "fyonnetti",
-  "author": {
-    "name": "Frank Yonnetti"
-  },
-  "icon": "gravity-icon.png",
-  "engines": {
-    "vscode": "^1.54.0"
-  },
-  "homepage": "https://github.com/frankyonnetti/gravity-vscode-theme",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/frankyonnetti/gravity-vscode-theme"
-  },
-  "bugs": {
-    "url": "https://github.com/frankyonnetti/gravity-vscode-theme/issues"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "scripts": {
-    "theme": "node ./build.js"
-  },
-  "contributes": {
-    "themes": [
-      {
-        "label": "Gravity Blue",
-        "uiTheme": "vs-dark",
-        "path": "./themes/gravity-blue-theme.json"
-      },
-      {
-        "label": "Gravity Purple",
-        "uiTheme": "vs-dark",
-        "path": "./themes/gravity-purple-theme.json"
-      },
-      {
-        "label": "Gravity Pink",
-        "uiTheme": "vs-dark",
-        "path": "./themes/gravity-pink-theme.json"
-      },
-      {
-        "label": "Gravity Red",
-        "uiTheme": "vs-dark",
-        "path": "./themes/gravity-red-theme.json"
-      },
-      {
-        "label": "Gravity Orange",
-        "uiTheme": "vs-dark",
-        "path": "./themes/gravity-orange-theme.json"
-      },
-      {
-        "label": "Gravity Yellow",
-        "uiTheme": "vs-dark",
-        "path": "./themes/gravity-yellow-theme.json"
-      },
-      {
-        "label": "Gravity Green",
-        "uiTheme": "vs-dark",
-        "path": "./themes/gravity-green-theme.json"
-      },
-      {
-        "label": "Gravity Gray",
-        "uiTheme": "vs-dark",
-        "path": "./themes/gravity-gray-theme.json"
-      }
-    ]
-  },
-  "devDependencies": {
-    "node-json-minify": "^3.0.0"
-  }
+	"name": "gravity-vscode-theme",
+	"displayName": "Gravity Theme",
+	"description": "Dark monokai theme that feels right at home on macOS",
+	"version": "1.8.0",
+	"license": "MIT",
+	"publisher": "fyonnetti",
+	"author": {
+		"name": "Frank Yonnetti"
+	},
+	"icon": "gravity-icon.png",
+	"engines": {
+		"vscode": "^1.54.0"
+	},
+	"homepage": "https://github.com/frankyonnetti/gravity-vscode-theme",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/frankyonnetti/gravity-vscode-theme"
+	},
+	"bugs": {
+		"url": "https://github.com/frankyonnetti/gravity-vscode-theme/issues"
+	},
+	"categories": [
+		"Themes"
+	],
+	"scripts": {
+		"theme": "node ./build.js"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Gravity Blue",
+				"uiTheme": "vs-dark",
+				"path": "./themes/gravity-blue-theme.json"
+			},
+			{
+				"label": "Gravity Purple",
+				"uiTheme": "vs-dark",
+				"path": "./themes/gravity-purple-theme.json"
+			},
+			{
+				"label": "Gravity Pink",
+				"uiTheme": "vs-dark",
+				"path": "./themes/gravity-pink-theme.json"
+			},
+			{
+				"label": "Gravity Red",
+				"uiTheme": "vs-dark",
+				"path": "./themes/gravity-red-theme.json"
+			},
+			{
+				"label": "Gravity Orange",
+				"uiTheme": "vs-dark",
+				"path": "./themes/gravity-orange-theme.json"
+			},
+			{
+				"label": "Gravity Yellow",
+				"uiTheme": "vs-dark",
+				"path": "./themes/gravity-yellow-theme.json"
+			},
+			{
+				"label": "Gravity Green",
+				"uiTheme": "vs-dark",
+				"path": "./themes/gravity-green-theme.json"
+			},
+			{
+				"label": "Gravity Gray",
+				"uiTheme": "vs-dark",
+				"path": "./themes/gravity-gray-theme.json"
+			}
+		]
+	},
+	"devDependencies": {
+		"node-json-minify": "^3.0.0"
+	},
+	"__metadata": {
+		"size": 1174146
+	}
 }

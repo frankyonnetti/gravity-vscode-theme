@@ -2,6 +2,11 @@
 
 All notable changes to the "Gravity" theme will be documented in this file.
 
+## [1.8.0] - 2026-07-23
+### Update
+- Removes macOS style scrollbars with rounded corners.
+- Removes tab.selectedBorderTop color.
+
 ## [1.7.0] - 2023-12-02
 ### Update
 - Added macOS style scrollbars with rounded corners. Requires the Custom CSS and JS Loader extension.

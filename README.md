@@ -14,16 +14,6 @@
 <img alt="" src="https://yonnetti-sublime.s3.amazonaws.com/gravity-vscode/macos-accent-colors.png" width="236" />
 </p>
 
-<img alt="New" src="https://yonnetti-sublime.s3.amazonaws.com/gravity-vscode/new.png" />
-
-Added <strong>macOS style scrollbars</strong> with rounded corners in release 0.1.6 using the [Custom CSS and JS Loader]() extension. Once installed, use the following path to the CSS:
-
-```json
-"vscode_custom_css.imports": [
-  "file:///Users/USERNAME/.vscode/extensions/gravity-vscode-theme/custom/styles.css"
-]
-```
-
 ## Install
 
   - Download the **theme** by clicking the "Code" button above and selecting **Download ZIP** from the drop-down.

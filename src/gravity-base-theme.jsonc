@@ -62,6 +62,7 @@
 		"tab.activeBorder": "@color_base",
 		"tab.border": "#0d0d0d",
 		"tab.inactiveBackground": "#1e1e1e",
+		"tab.selectedBorderTop": "#2b2b2b",
 		// titleBar
 		"titleBar.activeBackground": "#383838",
 		"titleBar.border": "#191919",
